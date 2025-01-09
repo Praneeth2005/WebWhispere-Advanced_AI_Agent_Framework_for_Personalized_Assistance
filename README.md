@@ -22,7 +22,7 @@ A Python-based AI agent system built using AgentOps.ai for transforming raw data
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/praneeths_ai_agents.git
+git clone https://github.com/Praneeth2005//praneeths_ai_agents.git
 
 # Install dependencies
 pip install -r requirements.txt
