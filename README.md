@@ -1,4 +1,4 @@
-# PraneethsAIAgents
+# WebWhispere-Advanced_AI_Agent_Framework_for_Personalized_Assistance
 ![image](https://github.com/user-attachments/assets/14646bbe-80d1-48fd-8975-96521b6ab3e8)
 
 ![image](https://github.com/user-attachments/assets/37e6d3a2-5322-4ebd-bf31-325f0b4c4a4b)
