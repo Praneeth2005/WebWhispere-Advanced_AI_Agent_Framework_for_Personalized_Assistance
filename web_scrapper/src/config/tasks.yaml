@@ -1,0 +1,18 @@
+
+web_scrapper_task:
+    description: >-
+      Analyze quarterly sales data to identify trends and patterns.
+    expected_output: >-
+      A report detailing sales trends, insights, and recommendations for improvement.
+    agent: >-
+      web_scrapper
+
+summarizer_task:
+    description: >-
+      Create a blog post about the benefits of sustainable living.
+    expected_output: >-
+      A well-structured and engaging blog article on sustainable living practices.
+    agent: >-
+      summarizer
+
+ 
