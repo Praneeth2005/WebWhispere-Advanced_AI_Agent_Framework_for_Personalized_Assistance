@@ -1,4 +1,5 @@
 # PraneethsAIAgents
+![image](https://github.com/user-attachments/assets/14646bbe-80d1-48fd-8975-96521b6ab3e8)
 
 A Python-based AI agent system built using AgentOps.ai for transforming raw data into actionable insights through advanced analytics and machine learning.
 
